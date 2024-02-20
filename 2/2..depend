@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708286525 source:c:\users\Виктор Комисар\documents\github\home-work\2.\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+
